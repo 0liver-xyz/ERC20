@@ -16,7 +16,7 @@ Ce projet est prêt à être déployé sur un réseau Ethereum testnet comme Sep
 
 Clonez ce projet et installez les dépendances :
 
-git clone https://github.com/VegaCrypto4/erc20token.git cd erc20token npm install
+git clone https://github.com/0liver-xyz/erc20.git cd erc20token npm install
 
 
 ## Tests
